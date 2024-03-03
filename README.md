@@ -1,8 +1,6 @@
 # embedded c code for I2C PROTOCOL  and hardware design in proteus software.
 #
-Inter Intergrated communication protocol( i2c)Inter Intergrated communication protocol( i2c)
-
-Associated with National Institute of Technology WarangalAssociated with National Institute of Technology Warangal
+Inter Intergrated communication protocol( i2c)Inter Intergrated communication protocol( i2c).
 The I2C (Inter-Integrated Circuit) protocol project involves the development of a communication system that enables data exchange between integrated circuits (ICs) using a synchronous, serial communication protocol. 
 Developed Embedded C code and made the hardware connection on Proteus software . In which used 
 24C04A EEPROM to store permanent data. It is a non-volatile memory. I2C debugger for debugging I2C communication between devices, AT89C51 microcontroller (8051-family) and 16x2 LCD display.
